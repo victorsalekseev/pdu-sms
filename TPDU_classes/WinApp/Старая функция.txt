@@ -1,0 +1,108 @@
+        /// <summary>
+        /// Unicode 8bit string to 7bit hex (no russian character set)
+        /// </summary>
+        /// <param name="s">строка лат.</param>
+        /// <returns>0-длина байт, 1-данные</returns>
+        public string[] StringToPDU(string s)
+        {
+            string ret_bin = string.Empty;
+            string ret = string.Empty;
+
+            int full_iteration =0;
+
+            //Если остаток от деления есть, то добавляем 1 итерацию для его перекрытия
+            double endsi=(double)s.Length / 10;
+            double intendsi=Math.Truncate(endsi);
+            if (endsi != intendsi)
+            {
+                full_iteration = (int)intendsi + 1;
+            }
+            else
+            {
+                full_iteration = (int)intendsi;
+            }
+
+            //для каждой группы из 10 чисел
+            for (int i = 0; i < full_iteration; i++)
+			{
+                //укладываем с конца 7-бит числа
+                //в каждой итерации - не больше 10 чисел включительно
+                int itj = 0;
+                int sec = 10 * i;
+                if (s.Length - sec < 10)
+                {
+                    itj = s.Length - sec;
+                }
+                else
+                {
+                    itj = 10;
+                }
+
+                //берем каждый символ и конвертируем его в двоичную систему
+                for (int j = 0; j < itj; j++)
+                {
+                    int symbl_hex_code = (char)s[10 * i + j];
+                    string bin_c = Convert.ToString(symbl_hex_code, 2);
+
+                    //весь смысл упаковки - если значащих цифр больше 7, то упаковать не сможем
+                    if (bin_c.Length > 7)
+                    {
+                        throw new ArgumentException("A non printable symbol contained in text.");
+                    }
+
+                    //а если меньше, добавляем до 7
+                    while (bin_c.Length<7)
+                    {
+                        bin_c = "0" + bin_c;
+                    }
+
+                    //и прибавляем к строке слева(!)
+                    ret_bin = bin_c + ret_bin;
+                }		
+            }
+            //в ret_bin теперь двоичные данные, которые надо перевести в hex
+
+            //Если остаток от деления есть, то добавляем 1 итерацию для его перекрытия
+            int ful_hex_it = 0;
+            int bit_in_byte = 8;
+            double endsb = (double)ret_bin.Length / bit_in_byte;
+            double intendsb = Math.Truncate(endsb);
+            if (endsb != intendsb)
+            {
+                ful_hex_it = (int)intendsb + 1;
+            }
+            else
+            {
+                ful_hex_it = (int)intendsb;
+            }
+
+            for (int hi = 0; hi < ful_hex_it; hi++)
+            {
+                //начало+8 не больше полной длины
+                //здесь берем по 8 чисел bit и переводим в hex
+                //начинаем с конца, но слева направо
+
+                //сколько бит копировать
+                int est_back = 8;
+
+                //смещение назад для получения указателя на 1-й бит
+                int bst_back = bit_in_byte * (hi + 1);
+
+                //Если длина не кратна кол-ву бит в байте, 
+                //то в конце будет не полный байт
+                //тогда считаем, сколько бит осталось
+                if (bst_back > ret_bin.Length)
+                {
+                    bst_back = 0;
+                    est_back = ret_bin.Length - (hi * bit_in_byte);
+                }
+                else
+                {
+                    //иначе двигаемся влево
+                    bst_back = ret_bin.Length - bst_back;
+                }
+                //2-потому что имеем дело только с полным одним байтом
+                ret += BinToHex(ret_bin.Substring(bst_back, est_back), "2");
+            }
+            return new string[] { string.Format("{0}", IntToHex(s.Length, "2")), ret };
+        }

@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegexTest.Properties.Resources.resources
+obj\Debug\RegexTest.csproj.GenerateResource.Cache
+bin\Debug\RegexTest.exe
+bin\Debug\RegexTest.pdb
+obj\Debug\RegexTest.exe
+obj\Debug\RegexTest.pdb
+obj\Debug\RegexTest.Form1.resources
+bin\Release\RegexTest.exe
+bin\Release\RegexTest.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\RegexTest.Form1.resources
+obj\Release\RegexTest.Properties.Resources.resources
+obj\Release\RegexTest.csproj.GenerateResource.Cache
+obj\Release\RegexTest.exe
+obj\Release\RegexTest.pdb

@@ -1,0 +1,1464 @@
+The reason I have put all +1 country codes together is because most of these countrys mobile
+networks only use these smsc's!
+Updated: Nov 27th 2008 01:09 am
+
+
+My Main SMSCList contains alot more smsc's than this. This is because these are 'DEFAULT' smsc's 
+(old and new - MO SMSC's - if you know of anymore please email me drew1982@gmail.com or text/sms 
++447918973994 thank you) These message center numbers are to be used on their original networks.
+ If you loose your "short message 
+service centre number" or
+"message center number" Then this is the list for you! 
+
+This is also a good reference for people running/testing sms applications and software.
+
+
+The list...
+
++1 USA & Canada & Jamaica & St. Kitts and Nevis & Trinidad and Tobago & Dominican Republic 
+& Puerto Rico & St. Vincent and the Grenadines & Dominica & St. Lucia & American Samoa &
+Guam & Northern Marianas & Montserrat & Turks and Caicos Islands & Grenada (incl Carriacou) &
+Bermuda & Cayman Islands & Virgin Islands (USA) & +1284 Virgin Islands (UK) & Antiqua and
+Barbuda & Anguilla & Barbados & Bahamas.
+
++12063130003 T-mobile
++12063130004 T-mobile & Voicestream
++12099042010 Cingular (West Coast) & Pacific Bell
++12099042020 Pacific Bell (west region)
++12099042030 Pacific Bell (west region)
++12149320902 Unicel
++12605300005 Centennial Wireless
++12812350025 Aerial Comms
++13123149600 Cinglar (great lakes region)
++13123149810 Cingular & o2wireless & AT&T
++13123149860 Cinglar (great lakes region)
++13123149870 Cinglar (great lakes region)
++13123149880 Cinglar (great lakes region)
++13305310005 Cellular One & Dobson
++13342090307 Digiph PCS
++13343338200 Powertel
++13348000011 Southern Linc
++14047259000 Cinglar (northeast region)
++14047259015 Cinglar (northeast region)
++14047259016 Cinglar (northeast region)
++14047259060 Cinglar (northeast region)
++14047259245 Cinglar (northeast region)
++14047259246 Cinglar (northeast region)
++14047259247 Cinglar (northeast region)
++1410258953  Washington PCS & Sprint (Old)
++14102589530 Washington PCS & Sprint PCS
++14147139800 Einstein
++14413360930 Mobility
++14415907672 Telecom Bermuda
++15132400140 Cincinnati Bell
++15148210053 Nextel & Telus
++15149931123 Fido (Microcell - Canada)
++15405559150 Suncom
++16044183471 Rogers
++16205755996 Epic PCS
++16363848801 Cinglar (central region)
++16363848815 Cinglar (central region) 
++16363848845 Cinglar (central region)
++16363848870 Cinglar (central region)
++16718886809 Iconnect
++17044100000 Sprint PCS (southeast region)
++17045020600 Cingular (SouthEast Coast)
++17045020700 Cingular (southeast region)
++17045020800 Cingular (southeast region)
++17057969300 Rogers Wireless (Canada) & Speakout
++18065270011 Xit Communications
++18098599990 Orange
++18098599999 Orange
++18132630025 Aerial Comms EST
++18132630026 Aerial CDT
++18763800154 Digicel (Incl C&W Bahamas)
++18768141109 Cable & Wireless Caymen Islands & St Lucia & St Kitts and Nevis
++19073590153 Alaska Wireless
++19078319301 Cingular & AT&T
++19179070004 Omnipoint
++19703769301 (old AT&T)
++19703769316 Nortel
++19703769317 Nortel
++19703769318 Nortel
++19703769319 Nortel
+
++20 Egypt
++20105996500 Click GSM & Vodafone
++20122000020 Mobinil
+
++212 Morocco
++2121000021 Maroc Telecom (Old)
++2123992000 Meditel (old)
++21261000021 Maroc Telecom
++21263992000 Meditel
+
++213 Algeria
++21350001701 Nedjma
++21361000750 AMN
++21370048571 Djezzy GSM
+
++216 Tunisia
++21622000022 Tunisiana
++21698390003 Tunisie Telecom
+
++218 Libya
++218919190120 Al Madar
++218929290120 Libyana
+
++220 Gambia
++220780001 Africell
+
++221 Senegal
++221766600990 Tigo
++221776380010 Orange
+
++222 Mauritania
++2226400850 Mauritel
+
++223 Mali
++2236000000 Orange
++2236700050 Malitel
+
++224 Guinea
++22463000996 Intercel
+
++225 Ivory Coast
++22505889999 MTN
++22507070002 Orange
+
++226 Burkino Faso
++22676600150 Zain
+
++227 Niger
++227940000 Telecel
++22796960200 Zain
+
++228 Togo
++228040009 Togocel
+
++229 Benin
++22997976903 MTN
+
++230 Mauritius (incl Rodriguez Island)
++2302500005 Cellplus
++2307290999 Emtel
+
++232 Sierra Leone
++23230100996 Tigo
++23276010101 Zain
++23277180000 Africell
+
++233 Ghana
++233200000007 Ghana Telecom
++233200000010 Ghana Telecom
++233244500000 Scancom & MTN
++233244550190000 Irancell (MT SMSC)
++233277500800 Tigo
+
++234 Nigeria
++234801000000 Nitel
++2348020000009 Vmobile & Zain
++234803000000 Mtn (PAYG)
++2348030000420 Mtn (Business)
++2348050001501 GloWorld
+
++235 Chad
++2356000999 Zain
+
++237 Cameroon
++23779000002 MTN
+ 
++241 Gabon
++24107910101 Zain
+
++242 Congo
++2425899900 Zain (Brazzaville)
++2425999900 Zain (Point-Noire)
++2426660016 Mtn
+
++243 Democratic Republic of the Congo
++243811030 Vodacom
++2439961234 Celtel (Congo) & Zain
+
++244 Angola
++244920010026 Unitel
+
++248 Seychelles
++248510000 C&W (Cable & Wireless)
++248700001 Airtel
+
++249 Sudan
++249912020000 Zain
++249921999999 Areeba
+
++250 Rwanda
++25008110333 MTN
+
++252 Somalia
++25265370000 Telecom Somaliland
+
++254 Kenya
++254722500029 Safaricom
++25472500010 Safaricom (Old)
++25472500029 Safaricom (Old)
++254733000810 Zain
++254770000040 Orange
+
++255 Tanzania
++255748000004 Celtel
++255744114 Vodacom
++25575114 Vodacom (Old)
++255774999100 Zantel
++255780000004 Zain
+
++256 Uganda
++256700000088 Waridtel
++25671000050 Uganda Telecom & TeleChoice
++25675010004 Zain
++25677110005 MTN
+
++258 Mazambique
++25882200030 Mcel (Mocambique Celular S.A.R.L)
+
++260 Zambia
++260966060015 Mtn
++260971911200 Zain
+
++261 Madagascar
++261323232707 Orange
++261331110006 Zain
+
++262 Mayotte & Reunion
++262692000606 Orange
+
++263 Zimbabwe
++26311191201 Zellco & Firstel
++26323100007 Telecel
++26323100009 Telecel (pvt) LTD
++26391010030 Econet 
++26391010045 Econet
+
++264 Namibia
++264811900200 MTC 
+
++265 Malawi
++2658820767 TNM 
++2658820777 TNM
++2659900140 Zain
+
++266 Lesotho
++26655820088 Vodacom
+
+
++267 Botswana
++26771010024 Mascom
++26772000003 Vista Cellular & Orange
++26772820133 Orange
+
++268 Swaziland
++2686011033 Vodacom
+
++269 Comoros
++2693300030 COMORES TELECOM
+
++27 South Africa
++27741000050 Virgin Mobile
++27829119 Vodacom
++27829129 Vodacom
++27831000002 MTN (Contract)
++27831000113 MTN (PAYG)
++27841000000 CellC
+
++298 Faroe Islands
++298249020 Faroese Telecom
+
++299 Greenland
++299500005 Tele
++299551495 Tele
+
++30 Greece
++30693597000 WIND (Prepaid)
++30693599000 Telestet
++306942190000 Vodafone
++306990000010 Q Telecom
++3093599000 Telestet
++3094219000 Panafon & Ala Carte & BFree & Cosmote & Pannon
++30942940000 Panafon
++3097100000 Cosmote
++3097100003 Cosmote
++3097100005 Cosmote
+
+
++31 Netherlands
++31624000000 T-Mobile (Nederland)
++31626000230 Telfort (Nederland) & LEBARA MOBILE
++31628500561 Orange UPC (Nederland) & IDTMobile & UPC
++31640191919 Tele2
++31653131313 KPN Subscribements (Holland) & PTT
++31653131314 KPN Prepaid & Hi prepaid (Holland) & Ortel mobile
++31653131315 KPN Mobile
++31653141414 PTT
++316540881000 Vodafone (Nederland) & Libertel
+
++32 Belgium
++32475161612 Proximus
++32475161616 Proximus 
++32475161622 Proximus
++32486000005 Base & IDT Mobile & Ortel & Ramaphone & Orange
++32495002530 Mobistar & Carte Plus
++32495955205 SMobistar
++3275161612 Proximus (old)
++3275161616 Proximus (Old)
++3275161617 (Old)
++3295955205 Mobistar
+
++33 France
++33607281155 Tele2
++33609001390 SFR & Coriolis Telecom
++33609003347 (Tambahan)
++33660003000 Bouygues
++33689004000 Orange & Itineris & Monaco
++33689004431 Itineris
++33689004581 Itineris
+
++34 Spain (incl Canary & Balearic Is)
++3409090909 TELEFONICA
++34607003110 AIRTEL & VODAFONE
++34607133000 Airtel
++34609090401 Movistar
++34609090403 TIM (Telecom Italia Mobile)
++34609090806 Movistar & Telefonica
++34609090870 Movistar
++3460909090 TELEFONICA
++34609090909 MOVISTAR & Telefonica
++34609090999 Movistar
++34644109030 Simo
++34656000311 Amena & ORANGE
++34690525100 Movistar
+
++350 Gibraltar
++35058000003 Gibtelecom
+
++351 Portugal (incl Azores & Madeira)
++351911350460 Vodafone
++351911350610 Vodafone
++351911616161 Vodafone
++351911616162 Vodafone
++351911616163 Vodafone
++35193121314 Optimus
++351931770077 Telcel
++351936210000 TMN
++351962100000 UZO (TMN)
++351962100005 TMN
++351962100012 TMN
+
++352 Luxembourg
++352021100003 Lux GSM & PTT
++352061000060 VOX
++352091000030 Tango
+
++353 Ireland, Republic of
++353830000800 Three
++353857000000 Meteor
++353868002000 o2 & Esat
++35387699959 Vodafone
++35387699985 Eircell
++35387699989 Vodafone
+
++354 Iceland
++3546999099 TAL
++3548900100 Landssiminn
+
++355 Albania
++355681000000 AMC
++355692000200 Vodafone
++3553820 AMC
+
++356 Malta
++35679700003 Go Mobile
++356941816 Vodafone
+
++357 Cyprus
++35796961001 Areeba
++3579700000 CYTA GSM
++35799700000 Cyta Mobile & Vodafone
+
++358 Finland
++358405202000 Sonera
++358405202002 Sonera
++358405202006 Sonera
++358405202330 Tele
++358410400 Telia
++358447983500 DNA (Aina)
++358451100100 Saunalahti
++3584570001040 Alands Mobiltelefon
++358508771010 Radiolinja & Elisa
+
++359 Bulgaria
++359878000333 BTC & Vivatel
++35988000301 MTEL (Mobiltel)
++35989100000 Globul
++35989100001 Cosmo
+
++36 Hungary
++36209300097
++36209300099 Pannon & Djuice
++36309610000 Pannon
++36309888000 T-Mobile & Westel900
++36309888008 T-Mobile 
++36709996500 Vodafone
+
++370 Lithuania
++37068499199 Tele2
++3706992323 Bite GSM
++37069899993 Omnitel 
++3709899992 Omnitel
++3709950115 Bite GSM
+
++371 Latvia
++37125850115 Tele2
++37129202020 Amigo
++37129599994 Tele2
++3719202020 LMT (Old)
++3719599994 Tele2 (Old)
+
++372 Estonia
++3725099000 EMT
++3725099001 EMT
++3725509911 Tele2 & Ritabell
++372568771010 Radiolinja
+
++373 Moldova (Moldavia)
++37365000090 EventIS
++37369101030 Orange
++37379499011 Moldcell
++3739101020 Voxtel
++3739101030 Voxtel
+
++374 Armenia
++3749000301 Beeline (Old)
++37491000301 Beeline
++37493297333 Vivacell
++37497200622 Karabakh Telecom
+
++375 Belarus (Belorussia)
++375296009000 Velcom
++375297770000 MTC (MTS)
+
++376 Andorra
++376301004 Mobiland
+
++377 Monaco
++37744019000 Valamobile
+
++380 Ukraine
++380390001008 GOLDEN TELECOM
++380390001009 Golden Telecom (UNI)
++3804444990007 Golden Telecom
++380444939907 Golden Telecom
++380444939908 GOLDEN TELECOM
++38050000501 UMC & Sim-Sim & Ekotel & Jeans
++38050000502 UMC
++380639010000 Life & Kyivstar
++380672020000 KYIVSTAR
++38067202010 Kyivstar GSM JSC
++380672021111 ACE&BASE & Djuice & KYIVSTAR
++380682953333 Beeline
++380683201111 Beeline
++380683211111 WellCOM & Ukrainian Radio Systems
++380689008708 Beeline
++380910440601 Utel
+
++381 Serbia
++381610401 VIP Mobile
++38163100100 Telenor & Mobtel
++38163100200 Mobtel
++38163100300 Mobtel
++38163100400 Mobtel
++381650000900 PTT Telekom
++38167100100 T-Mobile Cg & Monet
++38169200000 Promonte (Old)
+
++382 Montenegro
++38267100100 T-Mobile
++38269200000 Promonte
+
++385 Croatia
++385910401 Vipnet
++385951000100 Tele2
++385980501 T-Mobile HR
++385980504 T-Mobile HR
+
++386 Slovenia
++38640441000 Si.Mobil
++38640441003 Vodafone
++38640441013 Vodafone
++38641001333 Debitel
++38670007007 TusMobil
+
++387 Bosnia-Herzegovina
++38761125522 BH Mobile
++38761768085 BH Telecom (BA)
++38761768087 BH Telecom (BA)
++387633051 Eronet
++3876500009 Mtel (Old)
++38765500009 MTEL
++38766125522 PTT GSM
+
++389 Macedonia
++38970000501 T-Mobile
++389706622 Mobimak
++38975000200 Cosmofon
++38977000301 Vip
+
++39 Italy
++3916263333 Three
++393205858500 Wind (A-Mobile) & Telepass Mobile
++393205952500 Wind
++393505956500 Wind
++393205959100 Wind
++393205959300 Wind
++393205959500 Wind
++393358831200 Tim
++393359602000 Coop Voce
++393359604000 MTV Mobile
++393359608000 Tim
++393359609600 Tim
++39338960960 Tim
++39338980000 Tim
++393492000200 Vodafone
++393492000256 Vodafone
++393492000300 Omnitel
++393492000400 Vodafone
++393492000500 Omnitel
++393492000586 Vodafone Omnitel N.V.
++393492001155 Vodafone
++393492001156 Vodafone
++393492001157 Vodafone
++393492001158 Vodafone
++393492001159 Vodafone
++393492001311 Vodafone
++393709999130 Tiscali
++393770001004 Uno Mobile
++393770001005 BT Mobile
++393770001006 Poste Mobile
++393770001009 Conad (Insim)
++393770001010 Daily Telecom Mobile (DTM)
++393801000100 Blu Spa
++393916263008 Three
++393916263019 Three
++393916263333 Three
++393916263900 Fastweb Mobile
++393916263901 Fastweb Mobile
++393916263921 Digitel
+
++40 Romania
++40722004000 Vodafone
++40722004400 Vodafone
++40722006000 Vodafone
++40744946000 Orange
++40766000510 Cosmote (Cosmorom)
++4092004000 Connex GSM & Mobifon SA
++4092006008 Connex GSM
++4092006057 Connex GSM & Mobifon SA
++4092006064 Connex GSM
++4092006083 CONNEX GSM
++4094574574 Dialogue
++4094946000 Dialog
+
++41 Switzerland
++41435400000 Cablecom
++41740900103 Swisscom
++41740900108 Swisscom
++41765980000 SunriseCH & Diax
++41765980017 SUNRISE & TDC Switzerland AG
++41772099999 Tele2
++41787777070 Orange
++41794990900 Swisscom Mobile LTD
++41794991300 Swisscom Mobile LTD
++41794998123 Viag Swisscom Mobile LTD
++41794998990 Swisscom
++41794999000 Swisscom
++41794999001 Swisscom
++41799799888 Swisscom Mobile LTD
++41900900941 Swisscom
+
++420 Czech Republic
++420296363777 Oskar
++420602909909 O2 (Prepaid) & Eurotel
++420603052000 T-Mobile & Radiomobil
++420608005681 Oskar/Vodafone
+
++421 Slovakia
++421903333000 T-Mobile Slovensko & Eurotel
++421905303303 Orange Slovensko & Globtel
+
++423 Liechtenstein
++42379010599 United Mobile
+
++43 Austria
++4365009000000 TeleRing
++4366000660 Three
++436640501 A1 & FL1
++436640561 A1 Mobilkom
++4366477 A1 Mobilkom
++43676021 Max Mobil
++43676023 T-Mobile
++436888590001 Tele2 (domestic)
++436990001999 One
++436990004999 One GMBH
++436990008999 Yesss
+
++44 United Kingdom (UK)
++44385016005 Vodafone (Old)
++447624299955 Pronto & Cable and Wireless (Isle of Man)
++447624499904 Ekit
++447624499955 Pronto & Manx Telecom
++447624499970 Ekit travel SIM
++447624499977 Global sim 
++447723564240 Hutchison 3G
++447723564241 Hutchison 3G 
++447723564342 Hutchison 3G 
++447723564343 Hutchison 3G 
++447723564344 Hutchison 3G 
++447781001000 Cable & Wireless (Guernsey)
++447781001001 Cable & Wireless (Guernsey)
++447781001003 Cable & Wireless (Guernsey)
++447781001004 Cable & Wireless (Guernsey)
++447781001008 Cable & Wireless (Guernsey)
++447781001010 Cable & Wireless (Guernsey)
++447781001013 Cable & Wireless (Guernsey)
++447781484668 Beemme (Cable and Wireless Guernsey)
++447782000800 Hutchison 3G 
++447782000801 Hutchison 3G 
++447782000802 Hutchison 3G
++447785011300 Vodafone 
++447785011301 Vodafone 
++447785011302 Vodafone 
++447785011303 Vodafone 
++447785011304 Vodafone 
++447785011928 Vodafone 
++447785012520 Vodafone 
++447785012891 Vodafone 
++447785012990 Vodafone 
++447785013977 Vodafone 
++447785013978 Vodafone 
++447785013979 Vodafone 
++447785013987 Vodafone 
++447785013988 Vodafone 
++447785013993 Vodafone 
++447785013998 Vodafone 
++447785014208 Vodafone 
++447785014306 Vodafone 
++4477850143090 Vodafone
++447785014310 Vodafone 
++4477850143100 Vodafone
++447785014315 Asda Mobile
++447785014317 Lebara Mobile
++447785014318 Talk Mobile Travel SIM
++4477850143100 Vodafone
++447785016005 Vodafone 
++447785499993 Vodafone 
++447785499999 Vodafone 
++447785600100 Vodafone 
++447797700000 Jersey Telecom
++447797701000 Jersey Telecom
++447797704000 Jersey Telecom
++447797704001 Jersey Telecom
++447797704002 Jersey Telecom
++447797704003 Jersey Telecom
++447797704004 United Mobile
++447797704005 Jersey Telecom
++447797704006 Jersey Telecom
++447797704041 Jersey Telecom
++447797704043 Jersey Telecom
++447797704444 Jersey Telecom 
++447797706000 Jersey Telecom
++447797706003 Jersey Telecom
++447797706004 Jersey Telecom
++447797706007 Jersey Telecom
++447797706008 Jersey Telecom
++447797706009 Jersey Telecom
++447797706010 Jersey Telecom
++447797706011 Jersey Telecom
++447797706017 Jersey Telecom
++447797706018 Jersey Telecom
++447797706020 Jersey Telecom
++447797706022 Jersey Telecom
++447797706024 Jersey Telecom
++447797706025 Jersey Telecom
++447797706027 Jersey Telecom
++447797706029 Jersey Telecom
++447797706031 Jersey Telecom
++447797706032 Jersey Telecom
++447797706033 Jersey Telecom
++447797706037 NOMI MOBILE
++447797706041 Jersey Telecom
++447797706043 Jersey Telecom
++447797706071 Jersey Telecom
++447797706072 Jersey Telecom
++447797706074 Jersey Telecom
++447797707002 Jersey Telecom
++447797707070 Jersey Telecom
++447797707071 Jersey Telecom
++447797891005 Jersey Telecom
++447797895210 Jersey Telecom
++447797895511 Jersey Telecom
++447802000332 o2 (Contract)
++447802000334 O2
++447802000341 O2
++447802000531 O2
++447802000532 O2 
++447802000720 O2 
++447802000724 O2 
++447802005701 O2
++447802092035 o2 (PAYG)
++447829791004 Airtel+Vodafone (Jersey)
++447870002108 Blyk Mobile
++447870002208 Lyca Mobile
++447909582529 Vodafone
++447911704000 Wave Telecom
++447958879879 T-Mobile (Formerly One2One)
++447958879883 T-Mobile
++447958879890 Virgin
++447973074999 Orange
++447973100973 Orange
++447973100974 IDT Mobile
++447973100979 Orange
++44802000332 O2 (Old) (prepaid)
++44802000334 o2 (Old) (contract)
++44802000335 o2 (Old)
++44802000341 o2 (Old)
++44973100973 Orange (Old)
++44973100974 Orange (Old)
+
++45 Denmark
++4525700000 Tele2
++4526265151 Mobilix
++4528187000 Telia
++4531300000 Three
++4540390999 Global Mobile & TDC Mobil & IDT Mobile & Glabal Mobile & Tele Danmark
++4540590000 Sonofon
++4543625250 TDC
++4560990999 Bite (GSM)
+
++46 Sweden
++46705008999 Telia
++46707773078 Comviq
++46707990001 Tele2 & Comviq
++46707990002 Comviq
++46707990003 Comviq
++4670799007 Tele2
++46707990076 Tele2
++46707990081 Tele2
++46707990086 Tele2 (While Roaming)
++46708000708 Europolitan
++46735480000 Three
+
++47 Norway
++4747919000 NWN
++4747919009 NWN
++47900002100 Telenor
++4790002100 Telenor (Old)
++4790002198 Telenor
++4790007777 Telenor
++4792001000 Netcom
++479208977 Netcom
+
++48 Poland
++48501200777 IDEA Centertel & Orange
++48601000310 Plus GSM & Polkomtel
++48601000311 Polkomtel
++48601000351 Plus GSM & Polkomtel
++48602951111 Era & Heyah
++48602951112 Era 
++48790998250 P4 (Play)
+
++49 Germany
++4915700100100 Solomon
++491710760000 D1-TELEKOM & Detemobil & T-Mobile
++491710760315 Cellway D1 & Mobilcom D1
++491710760322 Victorvox D1
++491710760333 Debitel D1
++491710760345 TalkLine D1
++491710760374 The Phone House D1
++491710760900 D1 Talkline
++491710762222 D1
++491712092522 D1 T-Mobile
++491715990000 T-Mobile D1
++491712521001 D1 T-Mobile Deutschland GMBH
++491722241265 DR Materna
++491722270000 D2 Vodafone
++491722270104 Victorvox D2
++491722270111 Debitel D2 & DR Materna
++491722270201 D2 IC3S
++491722270210 D2 Vodafone GMBH
++491722270222 Debitel
++491722270229 D2 Vodafone
++491722270230 D2 Vodafone
++491722270258 D2 Talkline
++491722270265 DR Materna
++491722270300 D2
++49172227033 D2
++491722270333 D2 O2 & Vodafone & BildMobil
++491722270581 D2 Vodafone GMBH
++491722270685 D2 Vodafone
++491722270811 D2 Vodafone GMBH
++491722270827 Vodafone
++491722270880 Cellway D2
++491722271222 DR Materna
++491722277000 D2 Vodafone
++491722278000 D2
++491722278010 D2
++491722278025 D2
++491760000433 O2 Loop & Telefonica
++491760000442 o2
++491760000443 o2 Viag Interkom DTL
++491760000461 Debitel
++491770600000 E-Plus
++491770600010 E-Plus
++491770610000 Ortel & E-Plus
++49177062000 E-plus
++491770620007 E-Plus Mobilfunk
++491770620014 E-plus
++491793959507 O2 & GMBH & Co. OHG
+
++503 El Salvador
++50377601515 Digicel
+
++504 Honduras
++5043990100 Clear
++5049526911 Tigo
+
++505 Nicaragua
++5056090200 Telgua pcs
++5058105137 C&W (Cable & Wireless)
++5058500130 Enitel
+
++506 Costa Rica
++5063005007 I.C.E.
++5063005100 I.C.E.
+
++507 Panama
++50766105136 Zona Movil
++5076999904 C&W (Cable & Wireless)
+
++51 Peru
++5117990000 Claro (Old)
++51195599000 Movistar & Telefonica
++51197990000 Claro
+
++52 Mexico
++524700001410 Telcel
++5253309904 Nextel
++525512235100 Optel
++525512235110 MOVISTAR
++525512235135 Tigo
++5294100001410 Telcel & Orange
+
++54 Argentina
++54079000801 Movistar
++54079000803 Personal
++541151740011 MOVISTAR & Personal
++541151740050 Personal
++541151740055 Personal
++541151740056 Personal
++54320000000 CTI
++543200000000 CTI
++543200000001 CTI Mobile
++543200000059 CTI
+
++55 Brazil
++550112102010 Plus GSM
++550160000060 BRT GSM
++550310000010 Oi
++551178313930 Nextel
++551181136200 TIM
++551181138200 TIM & Vodafone
++551181138310 TIM
++5511831382000 TIM
++551188015300 Claro
++551991015300 Claro
++552191105300 Claro
++552194995300 Claro
++552194995350 Claro
++553191938200 TIM
++554199138200 TIM
++55510160000060 Brasil Telecom
++555181136200 TIM
++556181138200 TIM
++558199238200 TIM
++559181119200 TIM
+
++56 Chile
++5691600130 Movistar
++5691600131 TELEFONICA MOVIL DE CHILE S.A. 
++5691600132 NN
++5691600160 Movistar
++5692099000 Smartcompcs S.A. & Entel PCS
++5698890005 Movistar & Entel PCS
+
++57 Colombia
++573003690025 Tigo
++573103150030 Comcel
++573160001021 Movistar
+
++58 Venezuela
++58180000013 Infonet
++584128000000 Digitel & Expresate
++584240000954 Movistar
+
++590 Guadeloupe
++590350012 Orange
+
++591 Bolivia
++59177830007 Telef & Tigo
+
++593 Ecuador
++59395897705 Movistar
++59397995040 Porta Conecel
+
++595 Paraguay
++595961233 Vox De
++595981499003 Tigo
++595991799504 Porthable
+
++597 Suriname
++5978199004 Digicel
++5978690009 Telesur
+
++598 Uruguay
++59894000080 Movistar
++59896998001 Clearly
++59899998932 Tigo & Ancel
+
++599 Netherlands Antilles
++59995199300 Uniqa
+
++60 Malaysia
++60120000015 Maxis
++60162999000 Mutiara
++60162999902 DIGI
++60166782176 Digi Malaysia
++60173600010 Adam
++60193900000 Celcom GSM
++60193900020 CELCOM GSM SDN BHD
+
++61 Australia & Christmas Island
++61411990000 Soul & Optus
++61411990001 Living BDigital & Isim & Optus & Soul & OneTel
++61411990003 Optus
++61412025989 Yes & Optus
++61415011501 Savvytel & Exetel & Vodafone
++61418706700 Telstra
++61418706800 Telstra
++61418706900 Telstra
++61430004010 Three
+
++62 Indonesia
++62811000000 Telkomsel
++6281100000 Telkomsel
++62816124 Indosat
++6281615 Satelindo
++62818445009 Exelcomindo
++628315000031 Lippo Telecom
++628315000032 Axis
++62855000000 Indosat
++6289644000001 Three
+
++63 Philippines
++63910000101 Smart
++639150200003 Islacom
++639170000017 Globe telecom
++639170000020 Globe 
++639170000118 Globe
++639170000130 Globe
++6391702 Globe
++6391703 Globe
++6391708 Globe
++639180000101 Smart
++639180000115 Smart (Gold)
++639198961000 Smart
++639220001501 Sun
+
+
++64 New Zealand (incl Chatham Island)
++6421600600 Vodafone & Bellsouth
+
++65 Singapore
++652431389 Mobile One
++6596197777 Singtel (GSM900)
++6596400001 Singtel
++6596500001 Singtel (GSM1800)
++6596845999 Cosmote & Mobile One
++6598189999 Singtel
++6598540020 Starhub & Vodafone
+
++66 Thailand
++6613101800 AIS
++6616110400 DTAC & WP1800
++6618110888 AIS GSM
++6618310808 Mobile Life
++66813101800 AIS
++66816110400 Smart Mobile
++66818110888 AIS
++66818310808 AIS
++66891009120 TrueWorld
++6691009120 Trueworld & Orange (Old)
++6691009122 (Old)
++6693200101 Thai Mobile
+
++673 Brunei
++6738101010 Jabatan Telekom & BMobile
++6738795000 DST (Old)
++67387950000 DST
+
++675 Papua New Guinea
++6756818801 Pacific Mobile (BMobile)
+
++676 Tonga
++6768900200 TonFon
+
++679 Fiji
++679901400 Vodafone & Inkk Mobile
+
++684 ?
++6842589995 Bluesky
+
++687 New Caledonia
++687770009 Mobilis
+
++7 Russian Federation & Kazakhstan
++70119349900 Extel
++70957699100 MTS & MTC
++70957699101 MTS
++70957699102 MTS
++70957699800 MTS (Moscow)
++73009300300 K Cell (Kazakhstan)
++73009300301 K Cell (Kazakhstan)
++73339077000 Beeline & K-Mobile Kazakhstan
++73434800248 ITT (Ekaterinburg) & Smarts & Uraltel
++73519030100 UTEL & USI
++77010002525 KCELL
++77059077000 Beeline
++78129600096 Megafon (North West)
++78319090000 HCC & NCC (Nizhny Novgorod)
++78319090909 NCC & HCC
++78652949494 North Caucasian GSM
++790173100 BEELINE
++79022509900 Di Ex
++79022859999 Tele2
++79023100101 SMARTS UFA & ZAO SMARTS
++79023708080 Smarts
++79023708393 Smarts
++7902390000 Taif Telekom
++79024330000 Kuban GSM (MTS-Kuban)
++79025110010 Baykalvestkom 
++79025570055 VNTC
++79025570077 VNTC
++79027899999 MTS (Smolensk)
++79028710010 YCC
++79029869990 SCS900
++79029889991 ITT (Omsk)
++79029910000 ETK
++79033619502 Beeline
++79037011110 Beeline
++79037011111 Beeline & VimpleCOMR 
++79037011120 VimpelComR
++79042700003 Tele2
++79043090000 Tele2
++79043290000 Tele2
++79043490000 Tele2
++79045290000 Tele2
++79045390000 Tele2
++79104999104 MTC
++79106609999 ITT (Kostroma)
++79107459999 ITT (Rekom) (Voronezh Oryol Kursk Bryansk Belgorod Lipetsk)
++79107899999 MTC
++79112009993 ITT (St. Petersburg)
++79114009993 MTS
++79115509993 Peter
++79116009993 ITT (Novgorod)
++79126313456 ITT (Ekaterinburg)
++79128800003 MTS (Perm)
++79128900003 MTS (Chelyyabinsk & Magnitogorsk)
++79129200003 MTS (Tyumen & Sergut & Nizhnevartovsk)
++79135330003 ITT (Atlanta)
++79139869990 MTC (Atlanta)
++79147991000 ITT (Irkutsk)
++79168960220 MTS 
++79168999100 MTS (Moscow) & ITT
++79168999101 MTS
++79168999102 MTS
++79168999800 MTS (Moscow)
++79171002003 ITT (Samara)
++79173400670 BMTelekom (MTS-Bashkortostan)
++79173911800 Kazan
++79184330000 Kuban
++79206909090 Smolensk
++79219909090 Megafon & Mtn (North West)
++79222909090 Megafon
++79262909080 Megafon (Moscow)
++79262909090 Megaphone (Megafon Moscow)
++79282000002 Megaphone (Caucasus) & Mobikom
++79289900028 Mobikom
++79508090000 Tele2
++79508404040 Tele2
++79549903444 Global Star
+
++84 Vietnam
++84900000012 Viettel (North and Central region)
++84900000018 Viettel (South)
++84900000040 Viettel
++8490200030 Viettel
++8491020005 VinaPhone (Hanoi Telecom)
++84980200030 Viettel
+
++852 Hong Kong
++85262444402 CM Mobile
++85263353535 Three
++85290100000 Vodafone & Extra & Smartone
++85290200006 HKCSl
++85290250109 Hong Kong Telecom 1010
++85290257224 CM Mobile
++85290288000 CSL & One2Free & HK Telecom
++85292040031 Peoples
++85292141238 New World
++85292141239 New World
++85292347949 PCCW 3G
++85292347999 Sunday
++85294985795 Three & Orange
++85294989995 Three & Orange
+
++853 Macao
++8536344503 HT 
++8536200855 CTM
++8536800000 TELEMOVEL & CTM
++8536800855 TELEMOVEL 
+
++855 Cambodia
++855098009900 StarCell
++85511001555 Camshin & Qbmore
++85512000024 Cellcard
++85516800000 IQ2 Mobile
+
++856 Laos
++85620700024 Tigo
+
++86 China
++8613010112500 Unicom (Beijing)
++8613010130500 Unicom (tianjin)
++8613010150500 China Unicom GSM
++8613010171500 Unicom (Shandong)
++8613010180500 Unicom (Hebei)
++8613010200500 Unicom (Guangdong)
++8613010240500 Unicom (Liaoning)
++8613010305500 Unicom (Anhui)
++8613010314500 Unicom (Shanghai)
++8613010341500 Unicom (Jiangsu)
++8613010350500 China Unicom GSM
++8613010360500 Unicom (Zhejiang)
++8613010380500 Unicom (Fujian & guizhou)
++8613010501500 Unicom (Hainan)
++8613010591500 Unicom (Guangxi)
++8613010701500 Unicom (Shanxi)
++8613010710500 Unicom (Hubei)
++8613010720500 Unicom (Jiangxi)
++8613010731500 Unicom (Hunan)
++8613010761500 Unicom (Henan)
++8613010776500 Unicom (Qinghai)
++8613010788500 China Unicom GSM
++8613010796500 Unicom (Ningxia)
++8613010811500 Unicom (Sichuan)
++8613010831500 Unicom (chongqing)
++8613010868500 Unicom (yunnan)
++8613010879500 Unicom (gansu)
++8613010888500 Unicom (shenzhen)
++8613010911500 Unicom (jilin)
++8613010940500 Unicom
++8613010350500 Unicom (Inner Mongolia)
++8613010969500 Unicom (Xinjiang)
++8613010980500 Unicom (Heilongjiang)
++861301101901 Unicom
++8613800200500 China Mobile
++8613800210500 China Mobile
++8613800220500 China Mobile
++8613800250500 China Mobile
++8613800280500 China Mobile
++8613800571500 Hangzhou
++8613800752500 CM Mobile
++8613800755500 CM Mobile (Shenzhen)
++8613800756500 CM Mobile
++8613800769500 CM Mobile 
++861390591500 China Telecom
+
++880 Bangladesh
++8801600006001 Warid Tel
++8801700000600 GrameenPhone
++880170000600 GrameenPhone
++88017099999 GrameenPhone
++88017500569 GrameenPhone
++8801801000004 Aktel
++88018010004 Aktel
++88019900557 Banglalink
++881662900005 Iridium
++882161900000 Thuraya 
+
++886 Taiwan
++88691744001 (Old)
++886931000096 Far EasTone
++886931000099 Far Eastone
++886931413131 Mobitai (dong shin)
++886931744010 Pan Asia Telecom  (PAT)
++886932400821 Chungwa Telecom (Chunghwa)
++886932400841 Chungwa Telecom
++886932400851 Chungwa Telecom
++886932400881 Chungwa Telecom
++886932400882 Chungwa Telecom
++886935074443 TWN GSM
++886935874258 Taiwan Mobile
++886935874443 Catch
++886936000097 Far Eastone
++886936000099 Far Eastone
++886938348404 KGT
++886938749104 AndALetter
+
+
++90 Turkey
++905329010000 Turkcell
++905329010004 Turkcell
++905329010008 Turkcell
++905329020006 Turkcell Iletisim Hizmetleri A.S.
++905329110006 Turkcell Iletisim Hizmetleri A.S.
++905329110018 Turkcell Iletisim Hizmetleri A.S.
++905329200004 Turkcell Iletisim Hizmetleri A.S.
++905329210007 Turkcell Iletisim Hizmetleri A.S.
++905329300004 Turkcell Iletisim Hizmetleri A.S.
++905329500018 Turkcell Iletisim Hizmetleri A.S.
++905329510020 Turkcell Iletisim Hizmetleri A.S.
++905329530001 Turkcell
++905329550013 Turkcell Iletisim Hizmetleri A.S.
++905329580001 Turkcell Iletisim Hizmetleri A.S.
++905329580014 Turkcell Iletisim Hizmetleri A.S.
++905329580016 turkcell
++905329590002 Turkcell Iletisim Hizmetleri A.S.
++905329590011 Turkcell
++905329590012 Turkcell Iletisim Hizmetleri A.S.
++905329590020 Turkcell Iletisim Hizmetleri A.S.
++905338783000 KKT Cell
++905359010000 (Hazir Kart)
++905429800033 Vodafone & Telsim
++905598008000 Avea
+
++91 India
++914031893330 Reliance
++919417099997 BSNL & CellOne
++919422099997 BSNL & CellOne
++919434099997 Calcutta Telephones & BSNL & CellOne
++919434599997 BSNL & Excell (Guwahati)
++919440099997 BSNL (Old) & Cell ONE
++919442099997 BSNL (New)
++919732099990 Hutch
++919801005444 Hutch
++919805005444 Hutch
++919810051914 Airtel (Delhi)
++919811009998 Essar Cellphone (Delhi)
++919812099995 Escotel (Haryana)
++919813005444 Hutch
++919814047105 Spice 
++919815005444 Hutch
++919815051914 Airtel & Spice
++919816051914 Airtel
++919820005444 Orange & Hutch (Mumbai)
++919820005446 Maxtouch
++919820205446 Maxtouch
++919820405444 Orange (City of Bombay) & Hutchison Max Telecom PVT LTD
++919821000005 BPL Mobile
++919821100005 BPL
++919822078000 Idea (Maharashtra)
++919822178000 Idea (Maharashtra)
++919823000040 BPL
++919824078000 Idea
++919825001002 Celforce & Hutch (Gujarat)
++919826012311 Idea (chattisgarh)
++919829003333 Oasis (Rajasthan)
++919830005444 Hutch
++919831029007 (kolkata)
++919831029222 Spicell
++919831051914 Airtel
++919837099995 Escotel (Up West)
++919840011003 Airtel & Skycell Cellular
++919841044446 RPG
++919842201155 Aircel
++919843000040 BPL (Tamil Nadu)
++919844198441 Spice (Karnataka)
++919845087001 Airtel (Karnataka)
++919846000040 Hutch & BPL (Kerala) & Vodafone (Kerala)
++919847099996 Idea & Escotel (Kerala)
++919848001104 Tata Idea AP
++919849051914 Airtel
++919849087001 Airtel (Andhra Pradesh)
++919854099060 Aircel (Guwahati)
++919860005444 Hutch
++919864002222 Reliance (Guwahati)
++919868099994 Dolphin
++919869099994 MTNL & Dolphin
++919884005444 Hutch
++919885005444 Hutch AP
++919886005444 Hutch
++919888009998 Vodafone
++919889199996 Idea
++919890051914 Airtel
++919891030039 Idea
++919891030099 Idea (Delhi)
++919892051914 Airtel
++919893051914 Airtel
++919894051914 Airtel
++919895051914 Airtel (Kerala)
++919896051914 Airtel
++919897051914 Airtel
++919898051914 Airtel
++919934029007 (Patna)
++919954029007 Airtel (Guwahati)
+
++92 Pakistan
++92300000042 Mobilink
++9230000042 Mobilink (Old)
++923040000011 Paktel
++9231600006001 warid
++9232100006001 Warid
++923210006001 Warid
++923330005150 Ufone
++923330005250 Aur
++92333005150 Ufone (Old)
++923358000000 SCOM
++923455000010 Telenor
+
++93 Afghanistan
++9370290009 Afghan Wireless
++9379900100 Roshan (Old)
++93799900100 Roshan
+
++94 Sri Lanka
++94115000001 Bell
++94117000003 Dialog
++94334088884 Suntel
++947100003 Mobitel
++9477000003 Dialog GSM
++94785000005 Hutch
+
++960 Maldives
++9607780000 Dhiraagu DHI-Mobile
++960780000 (Old)
+
++961 Lebanon
++9613488888 Alfa & Lebancell & Cellis
++9613996060 MTC Touch
+
++962 Jordan
++962745490001 Zain 
++96277700016 Orange
++96278899088 Umniah
++96279000023 Zain & Fastlink
+
++963 Syria
++96393111193 Syriatel
++9639311193 Syriatel (Sritil Old)
++9639444444 MTN (Old)
++96394944444 MTN
+
++964 Iraq
++964750001140 Korektel
++9647605912010 Mobitel
+
++965 Kuwait
++9656373717 Wataniya (Old)
++96566373717 Wataniya
++96596000303 Zain
+
++966 Saudi Arabia
++966505031999 Sauid Telecom 
++96655053999 AL JAWAL
++96655075999 Al Jawal & Saudi Telecom Company (STC)
++96655096999 Al Jawal
++96655842855 SaudiTel
++966590100880 Zain
+
++967 Yemen
++96771580000 Sabafon
++96773100004 MTN
+
++968 Oman
++968300610 Oman Mobile (Old)
++9689300610 Oman Mobile (Old)
++96895001016 Nawras & Gull
++96899300610 Oman Mobile
+
++971 United Arab Emirates
++971506014994 Etisalat
++971506060000 Etisalat
++971555515515 DU
+
++972 Israel
++972059141999 Jawwal
++972521100059 CELL COM (Cellcom)
++97254120032 Orange (Old)
++972544120032 Orange
++97259141999 Jawwal (Old)
+
++973 Bahrain
++97336135135 Zain
++97339600179 Batelco
++9739600179 Batelco (Old)
+
++974 Qatar
++9745589955 QatarNet
+
++975 Bhutan
++97517009997 Bhutan Mobile (BMobile)
+
++976 Mongolia
++97699000030 MobiCom
+
++977 Nepal
++977980000900 Spice & Mero (Old)
++9779800009000 Spice & Mero
++977981028801 NTC (Old)
++9779841208365 Mobilink
++9779851028801 NTC
+
++98 Iran
++989320900004 Taliya
++989347691001 TKC
++989350001400 Irancell
++989350001420 Irancell
++989350001450 Irancell
++989350002400 Irancell
+
++992 Tajikistan
++992918602602 Babilon
++992919038989 Beeline
++992929999999 Somoncom & Lenta
+
++993 Turkmenistan
++99366322222 MTS
+
++994 Azerbaijan
++994509103300 Azercell
++994557070707 Bakcell
++994702000700 NarMobile
+
++995 Georgia
++995779104400 Geocell
++99597290589 Beeline
++99599599995 Magticom
+
++996 Kyrgyz Republic (Kirghizia)
++996502588800 Bitel
++996555500005 Megacom
+
++998 Uzbekistan
++998711300897 Mts
++998901850488 Beeline
++998901850499 INFOCOM
++998930190000 Coscom

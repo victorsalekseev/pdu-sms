@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Objetcs" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Objetcs">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="IdObj" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" />
+                <xs:element name="NameObj" msdata:ReadOnly="true" msdata:Expression="'Новый объект (' + IdObj + ')'" type="xs:string" minOccurs="0" />
+                <xs:element name="StateObj" type="xs:string" minOccurs="0" />
+                <xs:element name="GroupObj" type="xs:string" minOccurs="0" />
+                <xs:element name="NumTelObj" type="xs:string" minOccurs="0" />
+                <xs:element name="SMSCObj" msdata:Caption="Номер SMS центра" type="xs:string" minOccurs="0" />
+                <xs:element name="MsgFormatObj" type="xs:int" default="0" minOccurs="0" />
+                <xs:element name="LinkPwdObj" type="xs:string" minOccurs="0" />
+                <xs:element name="TrySendObj" type="xs:int" minOccurs="0" />
+                <xs:element name="IsWaitSendObj" type="xs:int" default="0" minOccurs="0" />
+                <xs:element name="WaitSendObj" type="xs:int" default="0" minOccurs="0" />
+                <xs:element name="IsWaitRecvObj" type="xs:int" default="0" minOccurs="0" />
+                <xs:element name="WaitRecvObj" type="xs:int" default="0" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Objetcs>
+    <IdObj>1</IdObj>
+    <NameObj>Новый объект (1)</NameObj>
+    <StateObj>Выполнена команда Х</StateObj>
+    <GroupObj>Октябрьский р-н</GroupObj>
+    <NumTelObj>+79206909090</NumTelObj>
+    <SMSCObj>+79270510984</SMSCObj>
+    <MsgFormatObj>0</MsgFormatObj>
+    <LinkPwdObj>12345678</LinkPwdObj>
+    <TrySendObj>2</TrySendObj>
+    <IsWaitSendObj>0</IsWaitSendObj>
+    <WaitSendObj>0</WaitSendObj>
+    <IsWaitRecvObj>0</IsWaitRecvObj>
+    <WaitRecvObj>0</WaitRecvObj>
+  </Objetcs>
+  <Objetcs>
+    <IdObj>2</IdObj>
+    <NameObj>Новый объект (2)</NameObj>
+    <GroupObj>Заводской р-н</GroupObj>
+    <MsgFormatObj>0</MsgFormatObj>
+    <IsWaitSendObj>0</IsWaitSendObj>
+    <WaitSendObj>0</WaitSendObj>
+    <IsWaitRecvObj>0</IsWaitRecvObj>
+    <WaitRecvObj>0</WaitRecvObj>
+  </Objetcs>
+  <Objetcs>
+    <IdObj>3</IdObj>
+    <NameObj>Новый объект (3)</NameObj>
+    <MsgFormatObj>0</MsgFormatObj>
+    <IsWaitSendObj>0</IsWaitSendObj>
+    <WaitSendObj>0</WaitSendObj>
+    <IsWaitRecvObj>0</IsWaitRecvObj>
+    <WaitRecvObj>0</WaitRecvObj>
+  </Objetcs>
+</NewDataSet>
